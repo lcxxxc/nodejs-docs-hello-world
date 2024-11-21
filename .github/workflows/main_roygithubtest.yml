@@ -59,4 +59,4 @@ jobs:
           app-name: 'RoyGitHubTest'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_329E1C591FC6417D8D8F6D16490EBF2C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4FEDDF5B1F4A4F33957621AD7966732A }}
