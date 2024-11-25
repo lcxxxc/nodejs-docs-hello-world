@@ -59,4 +59,4 @@ jobs:
           app-name: 'RoyWebAppTest'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DAD400F4FEF242CD8FC65B2DA3481A3C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_99501444DA40443DA3F3D5235D784D05 }}
